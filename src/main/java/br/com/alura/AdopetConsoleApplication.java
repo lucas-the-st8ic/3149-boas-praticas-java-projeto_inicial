@@ -188,6 +188,5 @@ public class AdopetConsoleApplication {
             }
         }
         reader.close();
-        
     }
 }
